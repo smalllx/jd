@@ -1,2 +1,2 @@
-# lxxxx.github.io
-jdstore
+# 京东商城
+纯静态网页
